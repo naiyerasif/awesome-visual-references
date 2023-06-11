@@ -3,6 +3,7 @@
 ## Development
 
 - [Load Balancing](https://samwho.dev/load-balancing/) - a bottom-up, animated guide to HTTP load balancing algorithms
+- [Memory Allocation](https://samwho.dev/memory-allocation/) - a visual introduction to memory allocation
 
 ## Science
 
